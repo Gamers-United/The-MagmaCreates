@@ -191,7 +191,7 @@ key_key.jei.nextPage:key.keyboard.unknown
 key_key.jei.bookmark:key.keyboard.unknown
 key_key.jei.toggleBookmarkOverlay:key.keyboard.unknown
 soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_music:0.1
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
